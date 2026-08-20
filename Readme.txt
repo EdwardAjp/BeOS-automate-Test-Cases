@@ -1,10 +1,5 @@
 #  BeOS QA Auto-Generator
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-2.5_Flash-orange?style=for-the-badge&logo=google&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-API_v2-purple?style=for-the-badge&logo=clickup&logoColor=white)
-![QASE](https://img.shields.io/badge/QASE-Ready-green?style=for-the-badge)
-
 Una poderosa herramienta de automatización de QA (Shift-Left Testing) diseñada para agilizar la creación de casos de prueba. Este script actúa como un puente entre la gestión de proyectos y la ejecución de calidad, utilizando Inteligencia Artificial para analizar requerimientos y generar pruebas profundas y estructuradas.
 
 ##  Características Principales
