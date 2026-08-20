@@ -1,0 +1,17 @@
+# 1. Credenciales y Tokens (¡CRÍTICO!)
+.env
+
+# 2. Archivo de reglas del Prompt (El MD)
+prompt-test-cases (1).md
+
+# ---------------------------------------------------
+# 💡 BONUS TÁCTICO DE ARQUITECTO
+# ---------------------------------------------------
+
+# 3. Ignorar la carpeta de resultados (Evita subir cientos de Excels y Words al repo)
+Entregables_QA/
+
+# 4. Ignorar archivos temporales y caché nativo de Python
+__pycache__/
+*.pyc
+*.pyo
